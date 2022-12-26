@@ -131,10 +131,13 @@ body {
   transform: translate(-112px, -50px);
 }
 
+.card__size {
+  margin-top: 50px;
+}
+
 .card__size,
 .card__color,
 .card__action {
-  margin-top: 50px;
   visibility: hidden;
   opacity: 0;
 }
